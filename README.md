@@ -8,7 +8,7 @@
 
 <hr>
 
-**DocLense**: It is an application that can be used to scan and save documents via your phone.
+**DocLense**: It is an application that can be used to scan and save documents via your             phone.
 
 <p align="center"><img src="assets/doclense.png" width=45%></p>
 
